@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Font';
+    src: url('СайтТел/the_weekend.otf') format('otf');
+
+    /* Дополнительные форматы шрифтов, если необходимо */
+    font-weight: normal;
+    font-style: normal;
+}
